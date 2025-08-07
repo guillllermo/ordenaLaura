@@ -1,0 +1,141 @@
+desde el 28 de julio de 2018 hasta el 28 de julio de 2023, ambos inclusive.
+todo en PDF!!!
+dni
+titulo bachillerato
+anexo v
+informe vida laboral
+certificado deloitte
+certificado avansis
+
+
+
+
+
+
+
+
+D • Gestión de la información y de la documentación de su ámbito a través de aplicaciones informáticas (Bases
+de datos, procesadores de texto, hojas de cálculo, herramientas de videoconferencia, etc.).
+D• Clasificación de entrada y redacción de la correspondencia.
+D• Redacción de informes.
+• Preparación de los expedientes para resolución.
+D• Redacción de asientos contables.
+• Preparación de las carpetas de documentos de pago.
+D• Realización de estadísticas e inventarios.
+• Cálculos necesarios para el establecimiento de costes de personal o material.
+• Confección y revisión de nóminas de personal.
+• Liquidación de impuestos en general y de la Seguridad Social.
+• Funciones de Secretaría y cualesquiera otros trabajos análogos.
+
+
+- Gestión y organización de la documentación
+- Recibir, clasificar, archivar y mantener actualizados los documentos en los sistemas correspondientes.
+- Tramitación y verificación de la ejecución de las actuaciones subvencionadas dentro de las convocatorias de los programas.
+- Revisión de documentación aportada por empresas beneficiarias de los programas
+- Archivo digital de la documentación revisada
+- Apoyo administrativo en la gestión y tramitación de expedientes, subvenciones. Apoyo administrativo general.
+- Apoyo administrativo y de secretariado: gestión de documentación, gestión de agenda, atención telefónica y de visitas, etc.
+- Apoyo administrativo en la tramitación de expedientes. Introducción de datos en BBDD. Gestión de documentación: digitalización y archivo.
+- Apoyo administrativo en la preparación de comités, en el seguimiento de los avance de los Proyectos, tramitar las 
+solicitudes Administrativas de la Dirección, gestión de agenda, atención telefónica, etc..
+- Apoyo en la redacción de notas e informes jurídico-técnico-administrativos.
+- Busca incorporar un/a administrativo/a para dar apoyo administrativo en la gestión de documentación
+- Apoyo administrativo en la gestión de documentación y tramitación de expedientes. Gestión de agenda, citas, reuniones, atención telefónica, priorización de llamadas.
+- Apoyo administrativo en la gestión y tramitación de documentación: registro, archivo, digitalización, verificación de datos, BBDD, etc.
+- Apoyo administrativo en la tramitación documental de Licitaciones, Adjudicaciones, Contrataciones e Incidencias, y su posterior Tramitación en SAP
+
+
+
+
+
+OJO!! ES AVANSIS INTEGRACION S.L.
+
+
+REVISAR MI LINKEDIN!!!
+
+ofimatica (teams, word, excel, ppt) 
+----------SAP financiero
+----------convocar reuniones, gestion de mails outlook
+----------presentaciones, formacion, uats,
+sap bw/4hana base de datos -> coger datos a entorno comun, con detalle q se requiera, actualizado para hacer informes o analisis de datos
+----------planificacion del proyecto, fases, hitos, 
+----------informes, documentacion, 
+----------jira: gestion de incidencias
+redactar mails una vez finalizadas las reuniones con las minutas, y organizar las siguientes, agenda
+----------automatizacion de tareas en sap, sap bpc, anaplan (presupuestacion)
+-----------realizacion de estadisticas sobre la evolucion del proyecto 
+datos origen -> etl -> reporting (funcional)
+
+---------sharepoint o carpetas compartidas, directorios -> archivo y registro documentacion, envio de documentacion en la nube
+reuniones y llamadas clientes con teams, zoom,...
+
+---------Preparar y presentar los informes sobre las actividades desarrolladas 
+actualizar base de datos 
+
+
+revisar datos, cuadre de datos y validacion
+bases de datos: hfm, oracle, people,...
+planificacion proyecto equipos involucrados, personas, tiempo, presupuesto (costes de personal, horas necesarios de dedicacion,...) 
+ofimatica, documentacion, 
+organizacion proyectos, sprints
+presupuestos de los proyectos
+organizacion y cumplir en fecha los entragables proyecto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Presentación de documentación acreditativa del Baremo de Méritos
+La documentación acreditativa del cumplimiento de los méritos reseñados en el Baremo de Méritos que
+deberán presentar los/las aspirantes que hayan superado la FASE 1ª DE OPOSICIÓN será la siguiente:
+
+• Experiencia Profesional (apartado 1 del Anexo VI): Para su acreditación, se deberá presentar
+imprescindiblemente: Informe de Vida Laboral actualizado emitido por la Seguridad Social y
+especificar, al cumplimentar la declaración del Baremo de Méritos, las fechas y funciones de los
+puestos desempeñados. Los servicios efectivos prestados se entenderán únicamente en la empresa
+reseñada en la vida laboral.
+La presentación de dicha documentación debe complementarse con, al menos uno, de los
+documentos que a continuación se relacionan:
+- Contrato/s de trabajo.
+- Certificado/s de la/s empresa/s, con mención de las funciones realizadas, así como del
+período o períodos en el/los que está o estuvo contratado/a.
+Para el supuesto de profesionales y Autónomos, licencia fiscal o IAE, cuando proceda.
+Asimismo, de forma complementaria se podrá aportar la documentación que la persona candidata
+estime conveniente para la acreditación y/o aclaración de las funciones realizadas.
+En cualquier caso, de la documentación aportada debe quedar suficientemente acreditado, a juicio
+del Tribunal, que se posee experiencia en las mismas funciones de la categoría a la que se opta. En
+caso contrario no se tendrá en cuenta para su valoración.
+
+• Otros Méritos (apartado 2 del Anexo VI): Fotocopia de los títulos, así como cualquier otra
+documentación justificativa. En el caso de no disponer del título, cuando la persona interesada
+reúna las condiciones de obtención del mismo, haya solicitado este y haya abonado las tasas
+correspondientes, con anterioridad a la finalización del plazo de presentación de solicitudes, podrá
+presentar supletoriamente la documentación que acredite tales circunstancias.
+Los documentos presentados en idioma distinto a uno de los cooficiales del Estado español deberán
+entregarse acompañados de su traducción oficial al castellano.
+Para los méritos relativos a la experiencia y funciones desarrolladas en una relación laboral con Adif/Adif
+AV, así como para los méritos relativos a la superación de las pruebas selectivas correspondientes a la última
+convocatoria de OEP de Adif para la misma categoría profesional, no será necesaria su justificación
+documental ya que constan a la entidad.
+
+
+
+
+
